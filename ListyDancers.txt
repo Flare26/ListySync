@@ -17,7 +17,6 @@ EmberMorgan
 Eva
 Finl
 FunnyDeath
-FuxxinMINT
 Griffin
 Hoetel Guard Dog
 Imber
@@ -55,6 +54,7 @@ danstagger
 doomsauce
 eldah
 elliesaurus
+fuxxinmint
 hashtagswag_
 holidaymay743
 killerryanne
