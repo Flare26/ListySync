@@ -7,7 +7,6 @@ Ajax Tauron
 Ayaniii
 BapeAngel
 CakeyChou
-Candid_Tear
 Derjax
 Dice Se7en
 EmberMorgan
@@ -40,6 +39,7 @@ blendtz
 bodaciousdream
 booo9911
 bunnymaxx
+candid_tear
 cccuro
 cexy_codemonkey
 chainsawdragon
