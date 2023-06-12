@@ -1,9 +1,9 @@
 -AKU-
+.dereck.
 .imber.
 .jager_master.
 .littlemoon.
 .steez.
-Ajax Tauron
 Ayaniii
 BapeAngel
 CakeyChou
@@ -32,6 +32,7 @@ Yona-Crystal
 _zenthefox_
 `Kanine
 a_sleepy_fox
+ajax_tauron
 arlinseabound
 assassinzx
 bestcoffeebean
